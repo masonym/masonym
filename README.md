@@ -9,6 +9,7 @@ I'm Mason, I recently finished my undergraduate in Computing Science at UFV in B
 - C#
 
 ### Current and future projects: 
+- MapleStory Upcoming Sales Preview
 - Sorting Algorithm Visualizer
 - Work more on my portfolio website 
 
