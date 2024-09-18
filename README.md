@@ -8,10 +8,9 @@ I'm Mason, I recently finished my undergraduate in Computing Science at UFV in B
 - PHP
 - C#
 
-### Current and future projects: 
-- MapleStory Upcoming Sales Preview
-- MapleStory Damage Skin Preview
-- Health & Fitness Web App
+### Current projects I'm working on: 
+- [MapleStory Upcoming Sales Preview](https://github.com/masonym/maple-cs-parser)
+- [MapleStory Tools Repository](https://github.com/masonym/masonym.dev)
 
 
 
