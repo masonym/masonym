@@ -6,7 +6,7 @@ hey, i'm mason leitch — a full-stack developer based in vancouver, bc. i write
 
 ## 👷‍♂️ what i'm building
 
-### 🔧 [maplestory tools](https://maplestory.tools)
+### 🔧 [maplestory tools](https://masonym.dev/)
 platform of tools for the MMORPG *MapleStory* used by 10k+ monthly players. built with next.js, typescript, and a custom ETL pipeline (c#/python) that parses thousands of in-game items from raw client files. always thinking about more things to add.
 
 ### 🛡️ [american defense alliance site](https://www.americandefensealliance.org)
