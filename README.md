@@ -35,7 +35,3 @@ custom frontend + cart + booking system for a small business in the medical aest
 - **site**: [masonleitch.dev](https://masonleitch.dev)  
 - **github**: [github.com/masonym](https://github.com/masonym)  
 - **email**: [nosamleitch@gmail.com](mailto:nosamleitch@gmail.com)
-
----
-
-*“who the hell wrote this code? (it was me)”*
