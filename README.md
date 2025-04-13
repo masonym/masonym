@@ -10,7 +10,7 @@ hey, i'm mason leitch — a full-stack developer based in vancouver, bc. i write
 platform of tools for the MMORPG *MapleStory* used by 10k+ monthly players. built with next.js, javascript, and a custom ETL pipeline (c#/python) that parses thousands of in-game items from raw client files. always thinking about more things to add.
 
 ### 🛡️ [american defense alliance site](https://www.americandefensealliance.org)
-event + content platform for a defense industry startup. replaced a stalled wix build with a performant next.js site that serves dynamic event pages, speaker rosters, admin tools, and CDN-optimized media delivery. built solo. still live.
+event + content platform for a defense industry startup. replaced a stalled wix build with a performant next.js site that serves dynamic event pages, speaker rosters, admin tools, and CDN-optimized media delivery.
 
 ### 💅 med spa booking + ecommerce platform (coming soon)
 custom frontend + cart + booking system for a small business in the medical aesthetics space. integrates with square’s apis to bypass the default jank and deliver smooth scheduling and payments. app router, custom backend routes, tailored UI.
