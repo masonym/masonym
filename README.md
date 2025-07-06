@@ -11,6 +11,7 @@ platform of tools for the MMORPG *MapleStory* used by 10k+ monthly players. buil
 
 ### 🛡️ [american defense alliance site](https://www.americandefensealliance.org)
 event + content platform for a defense industry startup. replaced a stalled wix build with a performant next.js site that serves dynamic event pages, speaker rosters, admin tools, and CDN-optimized media delivery.
+newly also featuring a full-stack registration flow using stripe API for secure payment, as well as stripe webhooks for logging, validating orders, and sending confirmation emails
 
 ### 💅 med spa booking + ecommerce platform (coming soon)
 custom frontend + cart + booking system for a small business in the medical aesthetics space. integrates with square’s apis to bypass the default jank and deliver smooth scheduling and payments. app router, custom backend routes, tailored UI.
