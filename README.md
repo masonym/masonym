@@ -2,7 +2,7 @@
 
 > junior dev.
 
-hey, i'm mason leitch — a full-stack developer based in vancouver, bc. i write code, mostly with typescript, next.js, and AWS, and i am trying to make stuff that actual humans use! i'd love to expand my horizons in terms of tech stacks; i spent a while learning the "safe" stuff like react, but lately i've wanted to step outside of the box a little more.
+hey, i'm mason. a full-stack developer based in vancouver, bc. i write code, mostly with typescript, next.js, and AWS, and i am trying to make stuff that actual humans use! i'd love to expand my horizons in terms of tech stacks; i spent a while learning the "safe" stuff like react, but lately i've wanted to step outside of the box a little more.
 
 ## what i'm building
 
