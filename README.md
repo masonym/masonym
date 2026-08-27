@@ -24,15 +24,8 @@ custom frontend + cart + booking system for a small business in the medical aest
 - **infra**: aws (lambda, dynamodb, s3, cloudfront, api gateway), vercel, cloudflare
 - **tools**: neovim (btw 🤓), git (hopefully a given)
 
-## what i'm like
-
-- big fan of doing it wrong until it’s right 
-- still trying to figure everything out
-- obsessed with performance (this seems to contradict the fact that im mostly building with React... we will fix this eventually)
-- i love good documentation!!!!
-
 ## reach me
 
 - **site**: [masonleitch.dev](https://masonleitch.dev)  
-- **github**: [github.com/masonym](https://github.com/masonym)  
+- **github**: [github.com/masonym](https://github.com/masonym) (you're already here!)
 - **email**: [nosamleitch@gmail.com](mailto:nosamleitch@gmail.com)
